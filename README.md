@@ -7,7 +7,8 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/anh-dao-84bb66243/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>    
-      <a href="mailto:hoanganh692004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20px" /></a>  
+      <a href="mailto:hoanganh692004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20px" /></a> 
+         <a href="https://github.com/Johnx69"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github" height="20px" /></a>
     </div>
 
 <br>
@@ -36,7 +37,7 @@
 
 - 📜 Google Tensorflow Developer ([Certificate](https://www.credential.net/de423ccf-24a0-48eb-a8c1-039548aa9268))
 - 🏆 **Best use of AI** project in SpartanHackathon 2022 ([CookMeAI](https://github.com/Johnx69/SpartanHacker8-CookMeAI))
-- 🏆 **3rd place** in the 2021 Data Science Talent Search competition of Vietnamese Foreign Trade University ([Certificate](https://drive.google.com/file/d/1gg7O1vQRd8DGFF4Svn7MS_fwgkukRvoE/view)
+- 🏆 **3rd place** in the 2021 Data Science Talent Search competition of Vietnamese Foreign Trade University ([Certificate](https://drive.google.com/file/d/1gg7O1vQRd8DGFF4Svn7MS_fwgkukRvoE/view))
 <br>
 
 
