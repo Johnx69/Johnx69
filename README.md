@@ -19,7 +19,7 @@
 - 🧪 In search of deep learning based research projects.
 - 💻 Actively looking for summer 2024 internships in Software Engineering, Machine Learning Engineering, and Data Engineering positions.
 
-<h2 align="center">📚 Language 📚</h2>
+<h2 align="center">📚 Languages 📚</h2>
 
 <div align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
